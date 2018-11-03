@@ -1,1 +1,7 @@
-# Define the variable board below.
+row = [" ", " ", " ", " ", " ", " ", " ", " ", " ", ]
+def printrow
+  puts row
+end
+
+
+
