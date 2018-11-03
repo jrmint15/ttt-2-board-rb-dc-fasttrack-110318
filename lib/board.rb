@@ -1,7 +1,4 @@
-row = [" ", " ", " ", " ", " ", " ", " ", " ", " ", ]
-def printrow
-  puts row
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " ", ]
+def printboard
+  puts board
 end
-
-
-
