@@ -1,2 +1,13 @@
-board = ["1", "2", "3" ]
-puts board
+def printboard
+  board = [" ", " ", " "]
+  puts board
+end 
+
+
+
+
+
+
+
+
+
