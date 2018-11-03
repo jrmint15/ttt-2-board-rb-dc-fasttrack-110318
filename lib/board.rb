@@ -1,5 +1,5 @@
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " ", ]
-def printboard
-  puts board
-end
-printboard
+board = ["1", "2", "3" ]
+puts board
+
+
+
