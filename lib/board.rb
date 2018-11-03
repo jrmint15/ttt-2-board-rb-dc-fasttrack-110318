@@ -1,13 +1,4 @@
 def printboard
   board = [" ", " ", " "]
   puts board
-end 
-
-
-
-
-
-
-
-
-
+end
