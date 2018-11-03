@@ -1,4 +1,3 @@
-def printboard
-  board = [" ", " ", " "]
-  puts board
-end
+board = [" ", " ", " "," ", " ", " "," ", " ", " "]
+puts board
+
